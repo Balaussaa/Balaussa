@@ -2,13 +2,13 @@
 My name
 # Program make a simple calculator
 
-# This function adds two numbers
-def add(x, y):
-    return x + y
+# This function adds three numbers
+def add(x, y, z):
+    return x + y / z
 
-# This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+# This function subtracts three numbers
+def subtract(x, y, z):
+    return x - y + z
 
 # This function multiplies two numbers
 def multiply(x, y):
